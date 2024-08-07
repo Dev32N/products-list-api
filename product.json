@@ -61,7 +61,7 @@
         "name": "Chanel Bleu De Chanel Eau de Parfum",
         "price": "4,350,000₫",
         "sizes": "1 Sizes",
-        "image": "./images/products/male/chanel-bleu-de-chanel-eau-de-parfum.jpg"
+        "image": "chanel-bleu-de-chanel-eau-de-parfum"
     },
     {
         "id": 9,
@@ -93,7 +93,7 @@
         "name": "Gucci Guilty Pour Homme Eau de Parfum",
         "price": "2,480,000₫ - 3,680,000₫",
         "sizes": "1 Sizes",
-        "image": "./images/products/male/gucci-guilty-edp.jpg"
+        "image": "gucci-guilty-edp"
     },
     {
         "id": 13,
