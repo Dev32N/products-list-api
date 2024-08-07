@@ -21,7 +21,7 @@
         "name": "Narciso Rodriguez For Him Bleu Noir Eau de Parfum",
         "price": "2,000,000₫",
         "sizes": "1 Sizes",
-        "image": "male/bleu-edp"
+        "image": "bleu-edp"
     },
     {
         "id": "4",
@@ -29,7 +29,7 @@
         "name": "Versace Eros For Men",
         "price": "1,680,000₫ - 3,200,000₫",
         "sizes": "1 Sizes",
-        "image": "male/eros"
+        "image": "eros"
     },
     {
         "id": "5",
