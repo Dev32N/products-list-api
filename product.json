@@ -135,12 +135,36 @@
         "sizes": "1 Sizes",
         "image": "versace_pour_homme_dylan_blue"
     },
-        {
+    {
         "id": "18",
         "brand": "Calvin Klein",
         "name": "Calvin Klein CK Be",
         "price": "1,390,000₫ ",
         "sizes": "1 Sizes",
         "image": "calvin-klein-ck-be"
-    }
+    },
+    {
+        "id": "19",
+        "brand": "Giorgio Armani",
+        "name": "Giorgio Armani Acqua Di Gio Pour Homme",
+        "price": "2,350,000₫ ",
+        "sizes": "1 Sizes",
+        "image": "acqua"
+    },
+    {
+        "id": "20",
+        "brand": "Zaharoff",
+        "name": "Zaharoff Signature Seraphim Blue",
+        "price": "3,880,000₫ ",
+        "sizes": "1 Sizes",
+        "image": "zaharoff"
+    },
+    {
+        "id": "21",
+        "brand": "Ralph Lauren",
+        "name": "Ralph Lauren Ralph's Club",
+        "price": "3,880,000₫ ",
+        "sizes": "1 Sizes",
+        "image": "ralph"
+    },
 ]
